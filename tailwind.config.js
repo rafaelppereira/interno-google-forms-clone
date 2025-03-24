@@ -11,6 +11,9 @@ module.exports = {
         '2xl': '1400px',
       },
     },
+    backgroundImage: {
+      constructor: 'url(/constructor-background.svg)',
+    },
     extend: {
       fontFamily: {
         sans: 'Plus Jakarta Sans',
